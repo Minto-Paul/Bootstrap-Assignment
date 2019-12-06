@@ -1,0 +1,322 @@
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body{
+
+}
+.top-header{
+	background-color: #f0f2f4;
+}
+.top-header-content{
+	padding: 5px 5px;
+}
+.top-header-content:first-child{
+	
+
+}
+i{
+	margin-left: 15px;
+}
+
+.nav-area{
+	padding: 30px 0px;
+}
+.btn {
+    cursor: pointer;
+    background-color: #de2b24;
+    color: #fff;
+}
+.navbar-nav{
+	color: #8e8e8e;
+}
+.navbar-light .navbar-nav .nav-link {
+   
+    color: #424242;
+    font-weight: 700;
+}
+.navbar-light .navbar-nav .nav-link:active {
+    color: #de2b24;
+}
+.hero{
+	background: url(../img/banner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding: 220px 0px;
+	
+}
+.hero h1{
+	padding-top: 80px;
+}
+.btn-one{
+	background-color: #f8cd53;
+	border:none;
+	color: #fff;
+	font-size: 20px;
+	padding: 15px 40px;
+	display: inline-block;
+	margin: 0px auto;
+
+
+}
+.single-item{
+	text-align: center;
+    padding: 20px 0px;
+}
+.single-item img{
+    padding: 25px 0px;
+}
+.single-item p{
+    text-align: center;
+}
+.second{
+	padding: 50px 0px;
+}
+.about-us{
+	text-align: center;
+}
+.approach-part{
+    background-color: #f3f3f3;
+    padding: 70px 0px;
+}
+h4:after{
+    width: 80px;
+    height: 4px;
+    content: "";
+    display: block;
+    background: #424242;
+    margin: 15px auto;
+}
+.title{
+    text-align: center;
+    
+}
+.content{
+    background-color: #fff;
+}
+.gallery{
+    padding: 50px 0px;
+     text-align: center;
+}
+
+.ga-area{
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+.img-part img{
+    width: 100%;
+    height: 100%;
+    margin: 0; 
+}
+.content-part{
+    padding: 50px 30px 50px 50px;
+}
+
+.seperator {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50%;
+    left: -65px;
+    background-color: #de2b24;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Myriad Pro';
+    text-align: center;
+    text-transform: lowercase;
+    line-height: 1;
+    margin-top: -50px;
+    border: 1px solid #fff;
+}
+.seperator span {
+    display: block;
+    font-size: 60px;
+    font-family: 'Georgia';
+    font-weight: bold;
+}
+.work-part{
+    background-color: #de2b24;
+}
+.single-gallery {
+    height: 275px;
+}
+.single-gallery img{
+    width: 100%;
+    height: 100%;
+}
+
+.form-part{
+    background-color: #1287bf;
+}
+
+
+
+.top-footer{
+     padding: 80px 0px;
+   
+}
+.top-footer {
+   
+}
+button.btn.btn-cstm {
+    cursor: pointer;
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #515151;
+    margin: 20px auto;
+    display: block;
+    padding: 10px 45px;
+    
+} 
+.form-control{
+    background-color: #515151;
+    border: none;
+    color: #bebebe;
+}
+.footer-part{
+    background-color: #515151;
+    color: #c7c7c7;
+    padding: 30px 0px;
+}
+
+
+.social-icon i{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40PX;
+    text-decoration: none;
+    background-color: transparent;
+    color: #FFF;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 5PX;
+    border: 1px solid #515151;
+    border-radius: 3PX;
+    transition: .3s;
+    text-align: center;
+    margin-bottom: 20px;
+   
+   
+}
+
+/*
+.social-icon a:hover {
+    background-color: transparent;
+    color: #15a4fa;
+}
+i{
+    margin-left: 0px;
+    padding: 0px 20px;
+}
+*/
+.fa.fa-facebook {
+   
+    font-size: 20px;
+   
+    color: #fff;
+    border: 1px solid #de2b24;
+}
+.top-footer{
+    padding: 70px 0px;
+     background-color: #2a2a2a;
+}
+
+.submit-form{
+    background-color: #fff;
+    width: 70%;
+    margin: 0px auto;
+}
+.submit-form p{
+    text-align: center;
+    
+}
+input.form-con{
+    width: 70%; 
+    margin: 0px auto;
+}
+
+
+.login-section p{
+	text-align: center;
+	 color: #959595;
+	font-size: 16px;
+	padding-bottom: 20px;
+}
+
+.login-section{
+	background:#fff;
+	padding: 50px;
+    color: #959595;
+    
+}
+
+.f-form{
+    margin-left: 25%;
+    display: block;
+}
+.form-part{
+    padding: 70px 0px;
+}
+
+.form-controll{
+	width: 60%;
+	height: 50px;
+	
+	padding: 15px 8px;
+   
+	margin-bottom: 14px;
+	font-size: 16px;
+	font-weight: 200px;
+	border: 01px solid #d9d9d9;
+	
+    color: #fff;
+    margin-bottom: 10px;
+    
+}
+.cs-from{
+    margin: 0px auto;
+    display: block;
+}
+.btn-log
+{
+	width: 180px;
+	background: #de2b24;
+	color: #fff;
+	padding: 15px 40px;
+	border: none;
+	font-size: 16px;
+	line-height: 25px;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-left: 30px;
+	transition: 0.5s ease;
+    margin-left: 20%;
+    display: block;
+    margin-top: 20px;
+    
+}
+.form-part p{
+    
+}
+.circle i {
+  text-align: center;
+    font-size: 80px;
+    color: #fff;
+    padding: 10px 0px;
+}
+.fa.fa-chevron-circle-down{
+    margin: 0px auto;
+    display: block;
+}
+.form-control {
+    background-color: #515151;
+    border: none;
+    color: #bebebe;
+    margin: 20px auto;
+    
+}
